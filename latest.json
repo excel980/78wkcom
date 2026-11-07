@@ -3,7 +3,7 @@
   "versionCode": 110,
   "releaseDate": "2026-11-06",
   "appName": "谷歌多用户管理器",
-  "devLog": true,
+  "devLog": false,
   "tutorialUrl": "https://www.kdocs.cn/l/cs4AuCNtoVKM",
   "supportWechat": "yingdao",
   "changelog": [
