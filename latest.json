@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.0",
   "releaseDate": "2026-11-06",
   "appName": "谷歌多用户管理器",
-  "devLog": false,
+  "devLog": true,
   "tutorialUrl": "https://www.kdocs.cn/l/cs4AuCNtoVKM",
   "supportWechat": "yingdao",
   "changelog": [
