@@ -1,16 +1,14 @@
 {
   "version": "1.0.1",
-  "releaseDate": "2026-11-06",
+  "releaseDate": "2026-11-08",
   "appName": "谷歌多用户管理器",
   "devLog": true,
+  "forceUpdate": true,
   "tutorialUrl": "https://www.kdocs.cn/l/cs4AuCNtoVKM",
   "supportWechat": "yingdao",
   "changelog": [
-    "1. 修复商/媒菜单点击未填入网址的问题",
-    "2. 输入框新增一键清空按钮",
-    "3. 新增开发日志开关",
-    "4. 关于软件新增下拉菜单（使用帮助 + 检查更新）"
-
+    "1. 修复 Local State 损坏导致 Chrome 无法启动的问题",
+    "2. 配置页新增「🔧 修复浏览器」一键自愈"
   ],
   "downloadUrl": "https://pan.baidu.com/s/19U_aET2jM0K8L4mhZKgGmA"
 }
