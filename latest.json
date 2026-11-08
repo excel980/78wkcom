@@ -3,7 +3,7 @@
   "releaseDate": "2026-11-08",
   "appName": "谷歌多用户管理器",
   "devLog": true,
-  "forceUpdate": true,
+  "forceUpdate": false,
   "tutorialUrl": "https://www.kdocs.cn/l/cs4AuCNtoVKM",
   "supportWechat": "yingdao",
   "changelog": [
